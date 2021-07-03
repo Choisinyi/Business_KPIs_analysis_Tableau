@@ -1,4 +1,4 @@
-# Business KPIs analysis by using Tableau-- CASE: GYM company
+# Business KPIs analysis by using Tableau-- CASE: Gymcompany
 ## Scenario: 
 A gym company is located in Hong Kong and is famous due to its variety of proposed classes, its modern facilities and its trainers expertise (they have fitness and dance instructors internationally famous).
 The gym company offers 8 different classes and 2 different subscription plans listed below:
