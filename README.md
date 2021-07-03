@@ -1,4 +1,18 @@
 # Business KPIs analysis by using Tableau-- CASE: GYM company
+## Senario
+The Gym company is located in Hong Kong and is famous due to its variety of proposed classes, its modern facilities and its trainers expertise (they have fitness and dance instructors internationally famous).
+the Gym company offers 8 different classes and 2 different subscription plans listed below:
+
+QUARTERLY SUBSCRIPTION CLASSES	PRICE (in HKD)	ANNUAL SUBSCRIPTION CLASSES	PRICE (in HKD)
+BODYPUMP	10000	STRENGTH AND CONDITION	50000
+YOGA	10000	YOGA	50000
+STRETCH ABS MIND BODY	10000		
+STRENGTH AND CONDITION	10000		
+JAZZ FUNK DANCE	10000		
+LATINO DANCE	10000		
+
+We as a team to produce a Business Intelligence Dashboard (Tableau) in which they can visualize their overall activity for the 2018 period, analyze it and be able to take relevant decisions/actions based on it.
+
 ## 4 KPIs: 
 1. Sales
 2. Customer experience
