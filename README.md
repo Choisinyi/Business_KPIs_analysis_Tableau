@@ -17,7 +17,7 @@ JAZZ FUNK DANCE	$10000
 
 LATINO DANCE	$10000		
 
-We as a team to produce a Business Intelligence Dashboard (Tableau) in which they can visualize their overall activity for the 2018 period, analyze it and be able to take relevant decisions/actions based on it.
+We as a team to produce a Business Intelligence Dashboard (Tableau) in which the managers can visualize their overall activity and performance for the 2018 period. After analyzing it, the managers will be able to take relevant decisions/actions based on it.
 
 ## 4 KPIs: 
 1. Sales
