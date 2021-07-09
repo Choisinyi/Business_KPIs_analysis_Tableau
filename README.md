@@ -26,13 +26,15 @@ We as a team to produce a Business Intelligence Dashboard (Tableau) in which the
 4. Marketing
 
 
-# Customer Experience KPIs:
+## Customer Experience KPIs:
 
 - Drop-Out vs Refferal 
 - Positive vs Negative comments from the website
 - Avg Rating 
 
 ![image](https://user-images.githubusercontent.com/80455832/125059920-6b26d280-e0de-11eb-87ab-9a95b1797f50.png)
+
+Findings:
 - There are more customer refferals than drop-outs. 
 - More positive comments from the website
 - At least half the of the weeks are above the avg ratings (the darker the colour means more poeple rate)
@@ -41,8 +43,11 @@ We as a team to produce a Business Intelligence Dashboard (Tableau) in which the
 
 - Internal hire 
 - Retention rate 
+
+![image](https://user-images.githubusercontent.com/80455832/125060539-10da4180-e0df-11eb-8dbd-2ae7ab25acea.png)
+
+Findings:
 We can see that that there are 4 employees left in Feb, the retention rate is low. Thus, the HR team hire people internally in order to improve the retention rate in March. 
-![Screenshot (161)](https://user-images.githubusercontent.com/80455832/124359910-849cca00-dc59-11eb-9076-8df7bf44c08d.png)
 
 
 ## Marketing KPIs:
