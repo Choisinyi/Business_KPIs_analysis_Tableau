@@ -1,4 +1,4 @@
-# Business KPIs analysis by using Tableau-- CASE: Gymcompany
+# Business KPIs analysis by using Tableau-- CASE: Gym company
 ## Scenario: 
 A gym company is located in Hong Kong and is famous due to its variety of proposed classes, its modern facilities and its trainers expertise (they have fitness and dance instructors internationally famous).
 The gym company offers 8 different classes and 2 different subscription plans listed below:
@@ -82,7 +82,7 @@ Findings:
 - Advice for Marketing team:  the marketing team should put more effort on attracting these age groups to submit their GYM applications.
 
 
-## 3.Impressions in Top 4 Countries/Regions
+## 3. Impressions in Top 4 Countries/Regions
 - Impression(Marketing Budgets)
 - Coversation rate
 
