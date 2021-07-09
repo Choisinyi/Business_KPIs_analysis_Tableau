@@ -25,6 +25,18 @@ We as a team to produce a Business Intelligence Dashboard (Tableau) in which the
 3. HR
 4. Marketing
 
+## Sales KPIs:
+- Monthly revenue
+- Subsription popularity
+- Annual (dark blue) vs Quarterly subscription(light blue)
+
+![image](https://user-images.githubusercontent.com/80455832/125062560-1cc70300-e0e1-11eb-8249-29536201c87a.png)
+
+Findings:
+- January has the highest Monthly revenue
+- Annual yoga, plan Annual strength & condition, 
+- Annual > Quarterly subscription
+
 
 ## Customer Experience KPIs:
 
