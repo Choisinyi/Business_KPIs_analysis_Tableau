@@ -34,7 +34,7 @@ We as a team to produce a Business Intelligence Dashboard (Tableau) in which the
 
 Findings:
 - January has the highest Monthly revenue
-- Annual yoga, plan Annual strength & condition, 
+- Annual yoga and plan Annual strength & condition
 - Annual > Quarterly subscription
 
 
