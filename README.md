@@ -83,7 +83,8 @@ Findings:
 
 
 ## 3.Impressions in Top 4 Countries/Regions
-
+- Impression(Marketing Budgets)
+- Coversation rate
 
 ![image](https://user-images.githubusercontent.com/80455832/125061050-89410280-e0df-11eb-9340-0eec19a58df9.png)
 
