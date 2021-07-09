@@ -26,6 +26,17 @@ We as a team to produce a Business Intelligence Dashboard (Tableau) in which the
 4. Marketing
 
 
+# Customer Experience KPIs:
+
+- Drop-Out vs Refferal 
+- Positive vs Negative comments from the website
+- Avg Rating 
+
+![image](https://user-images.githubusercontent.com/80455832/125059920-6b26d280-e0de-11eb-87ab-9a95b1797f50.png)
+- There are more customer refferals than drop-outs. 
+- More positive comments from the website
+- At least half the of the weeks are above the avg ratings (the darker the colour means more poeple rate)
+
 ## HR KPIs: 
 
 - Internal hire 
