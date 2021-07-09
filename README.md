@@ -28,14 +28,14 @@ We as a team to produce a Business Intelligence Dashboard (Tableau) in which the
 
 ## Customer Experience KPIs:
 
-- Drop-Out vs Refferal 
+- Dropout vs Refferal 
 - Positive vs Negative comments from the website
 - Avg Rating 
 
 ![image](https://user-images.githubusercontent.com/80455832/125059920-6b26d280-e0de-11eb-87ab-9a95b1797f50.png)
 
 Findings:
-- There are more customer refferals than drop-outs. 
+- There are more customer refferals than dropouts. 
 - More positive comments from the website
 - At least half the of the weeks are above the avg ratings (the darker the colour means more poeple rate)
 
