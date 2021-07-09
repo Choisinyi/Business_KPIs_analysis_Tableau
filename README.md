@@ -58,19 +58,23 @@ We can see that that there are 4 employees left in Feb, the retention rate is lo
  b.Age segmentation
 - Impressions in Top 4 Countries
 
- ## 1. Age segmentaion
+
+
+## 1. Gender segmentation: 
+
+![image](https://user-images.githubusercontent.com/80455832/125061003-7d554080-e0df-11eb-9a9b-ef79d28e91fa.png)
+
+## 2. Age segmentaion
 The marjority of new users are between 18-44 years old, while the conversation rate of  25-34 and 35-44 age group are quite low. Thus, the marketing team should put more effort on attracting these age groups to submit their GYM applications.
 
-![Screenshot (163)](https://user-images.githubusercontent.com/80455832/124360057-3c31dc00-dc5a-11eb-90d4-25f6aba4a813.png)
+![image](https://user-images.githubusercontent.com/80455832/125060937-6ca4ca80-e0df-11eb-8131-6def396482a2.png)
 
-## 2. Gender segmentation: 
 
-![Screenshot (167)](https://user-images.githubusercontent.com/80455832/124360351-e8c08d80-dc5b-11eb-8005-a7bdc50c9dc4.png)
 
 ## 3.Impressions in Top 4 Countries/Regions
 Although Hong Kong is the region with the most completed applications, the impression is too high. Implying that the marketing team should redistribute the marketing adversitment spending to other regions as well. 
 
-![Screenshot (168)](https://user-images.githubusercontent.com/80455832/124360442-6a182000-dc5c-11eb-998e-1624bdb98336.png)
+![image](https://user-images.githubusercontent.com/80455832/125061050-89410280-e0df-11eb-9340-0eec19a58df9.png)
 
 
 
