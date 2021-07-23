@@ -72,16 +72,16 @@ Findings:
 
 - There are 4 employees left in Feb, the retention rate is low
 - 
-Advice: HR team can hire people internally in order to improve the retention rate in March in order to improve the retention rate
+Advice: HR team can hire people internally in order to improve the retention rate in order to improve the retention rate
 
 
 
 ## Marketing KPIs:
 - New users visiting website
-- Coversation rate (fufilling the goal)
+- Conversion rate (fulfilling the goal)
 - Completed goal (the final customers with submitted the application form)
- a.Gender segmentation 
- b.Age segmentation
+  a.Gender segmentation 
+  b.Age segmentation
 - Impressions in Top 4 Countries
 
 
@@ -91,9 +91,13 @@ Advice: HR team can hire people internally in order to improve the retention rat
 - conversation rate by gender
 
 ![image](https://user-images.githubusercontent.com/80455832/125061003-7d554080-e0df-11eb-9a9b-ef79d28e91fa.png)
-- Advice for Marketing team: put the equal efforts on promoting men and women gym package.
 
-## 2. Age segmentaion
+Findings:
+- The distribution of male and female customers are equal
+
+Advice : put the equal efforts on promoting men and women gym package.
+
+## 2. Age segmentation:
 
 - Number of new users visit the website by age
 - conversation rate by age
@@ -101,20 +105,25 @@ Advice: HR team can hire people internally in order to improve the retention rat
 ![image](https://user-images.githubusercontent.com/80455832/125060937-6ca4ca80-e0df-11eb-8131-6def396482a2.png)
 
 Findings:
-- The marjority of new users are between 18-44 years old
-- However, the conversation rate of  25-34 and 35-44 age group are quite low. 
-- Advice for Marketing team:  the marketing team should put more effort on attracting these age groups to submit their GYM applications.
+- The majority of new users are between 18-44 years old
+- However, the conversation rate of the 25-34 and 35-44 age groups are quite low 
+
+Advice:  the marketing team should put more effort on attracting these age groups to submit their GYM applications
 
 
 ## 3. Impressions in Top 4 Countries/Regions
 - Impression(Marketing Budgets)
-- Coversation rate
+- Conversion rate
 
 ![image](https://user-images.githubusercontent.com/80455832/125061050-89410280-e0df-11eb-9340-0eec19a58df9.png)
 
 Findings: 
+
 - Although Hong Kong is the region with the most completed applications, the impression is too high.
-- Implying that the marketing team should redistribute the marketing adversitment spending to other regions as well. 
+- 
+Advice: Implying that the marketing team should redistribute the marketing advertising spending to other regions as well. 
+
+
 
 
 
