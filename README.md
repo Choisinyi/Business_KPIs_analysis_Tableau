@@ -50,6 +50,11 @@ Findings:
 - There are more customer refferals than dropouts. 
 - More positive comments from the website
 - At least half the of the weeks are above the avg ratings (the darker the colour means more poeple rate)
+- However, the dark blue bar chart is not many at all, not many people have provided their testimonials. 
+
+Advices:
+For the avg rating  → should ask more customers to rate and provide their testimonials via an online poll system.
+
 
 ## HR KPIs: 
 
