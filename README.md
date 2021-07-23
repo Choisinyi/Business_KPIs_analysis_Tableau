@@ -70,8 +70,10 @@ For the avg rating  → should ask more customers to rate and provide their test
 
 Findings:
 
-- We can see that that there are 4 employees left in Feb, the retention rate is low
-- Thus, the HR team hire people internally in order to improve the retention rate in March. 
+- There are 4 employees left in Feb, the retention rate is low
+- 
+Advice: HR team can hire people internally in order to improve the retention rate in March in order to improve the retention rate
+
 
 
 ## Marketing KPIs:
