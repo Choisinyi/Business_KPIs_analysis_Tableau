@@ -36,6 +36,11 @@ Findings:
 - January has the highest Monthly revenue
 - Annual yoga and plan Annual strength & condition
 - Annual > Quarterly subscription
+- However, the dark blue bar chart is not many at all, not many people have provided their testimonials. 
+
+Advice:
+For the avg rating  → should ask more customers to rate and provide their testimonials via an online poll system.
+
 
 
 ## Customer Experience KPIs:
